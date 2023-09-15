@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miku105
+- 👋 Hi, I’m Priyansh Bhatt
 - 👀 I’m interested in Android Development using Kotlin
 - 🌱 I’m currently learning App development through Kotlin
 - 💞️ I’m looking to collaborate on projects on Android Development
